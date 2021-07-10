@@ -1,17 +1,88 @@
-- title: Student, Harvard CS
+- title: Lead Engineer - Circles.Life, Singapore
+  from: March, 2021
+  to: present
+  description: >-
+    <ul>
+    <li>Leading a team of 7 developers</li>
+    <li>Involving in Design and development of several micro services</li>
+    </ul>
+
+- title: Senior Software Engineer - Circles.Life, Singapore
+  from: August, 2020
+  to: March, 2021
+  description: >-
+    <ul>
+    <li>Worked on several micro services written in Golang</li>
+    <li>Worked on few internal dashboards written in React.js</li>
+    <li>Involved in migrating sone legacy monoliths written in Node.js to micoservices written in Golang</li>
+    </ul>
+
+- title: Software Engineer - Circles.Life, Singapore
+  from: January, 2019
+  to: August, 2020
+  description: >-
+    <ul>
+    <li>Migrated all backend services onto an API Gateway (Kong)</li>
+    <li>Wrote custom plugins for API Gateway to handle authentication on API Gateway using Lua</li>
+    <li>Contributed in building the Scheduler Platform which allowed other systems to schedule events</li>
+    <li>Increased the platform reliability in the scheduler platform</li>
+    <li>Worked on several FinTech products and an authentication management service</li>
+    </ul>
+
+- title: Full-Stack Developer - Procourse LLC, Minnesota, USA
+  from: June, 2018
+  to: January, 2019
+  description: >-
+    <ul>
+    <li>Contributed in building a platform which enables managing discourse instances remotely</li>
+    <li>Built Procourse Marketplace which is a market place for Discourse Plugins</li>
+    <li>Worked on Discourse and Wordpress integrations for many clients including SitePoint, RStudio</li>
+    </ul>
+
+- title: Plugin Author - Discourse.org
+  from: June, 2017
+  to: Present
+  description: >-
+    <ul>
+    <li>Built a Discourse plugin to detect malicious URLs</li>
+    <li>Built a Discourse plugin for integrating OpenCollective with Discourse</li>
+    <li>Contributed to Discourse-Wordpress official plugin</li>
+    <li>Contributed to Discourse-Locations official plugin</li>
+    <li>Contributed to Discourse Core</li>
+    </ul>
+
+- title: Software Engineering Intern - CodeGen International, Sri Lanka
+  from: June, 2017
+  to: December, 2017
+  description: >-
+    <ul>
+    <li>Created a platform to expose multiple machine learning projects as APIs</li>
+    <li>Worked on a machine learning project for cartoon image detection</li>
+    <li>Migrated Machine Learning API Platform onto docker and reduce deployment effort</li>
+    </ul>
+
+- title: Google Summer of Code Intern - Free UK Genealogy Org, UK
+  from: June, 2018
+  to: August, 2018
+  description: >-
+    <ul>
+    <li>Worked on a plugin to add a datasource widget to the IDE</li>
+    </ul>
+
+- title: Google Summer of Code Intern - Eclipse Che Project, Eclipse Foundation
+  from: June, 2017
+  to: August, 2017
+  description: >-
+    <ul>
+    <li>Worked on an online citation generator for census records</li>
+    </ul>
+
+- title: Student - University of Moratuwa, Sri Lanka
   from: 2014
   to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-- title: Software Engineer, Google, UK
-  from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: >-
+    <ul>
+       <li>BSc. Engineering (Hons) Degree (First Class), Majoring in Computer Science and Engineering </li>
+       <li>Overall GPA : 3.71/4.2</li>
+       <li>Relevant Coursework : Data Structures, Algorithms, Machine Learning, Discrete Math, Linear Algebra, Compilers and interpreters</li>
+    </ul>
